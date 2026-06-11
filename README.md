@@ -18,17 +18,6 @@ A responsive movie discovery application built using **Vanilla JavaScript**, fea
 
 ---
 
-## 📸 Preview
-
-> Add screenshots here after deployment.
-
-```md
-![Home Page](./screenshots/home.png)
-![Movie Modal](./screenshots/modal.png)
-```
-
----
-
 ## ✨ Features
 
 ### 🔍 Smart Search
