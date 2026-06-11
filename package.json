@@ -1,0 +1,26 @@
+{
+  "name": "movie-site",
+  "version": "1.0.0",
+  "description": "movie listing app imdb ",
+  "keywords": [
+    "movies"
+  ],
+  "homepage": "https://github.com/Pragylucky/Movie-SITE#readme",
+  "bugs": {
+    "url": "https://github.com/Pragylucky/Movie-SITE/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pragylucky/Movie-SITE.git"
+  },
+  "license": "ISC",
+  "author": "Ronak Singh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.17.0"
+  }
+}
